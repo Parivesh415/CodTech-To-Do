@@ -1,3 +1,5 @@
+<html>
+<body>
 <h1> To-Do</h1>
 
 Name: Parivesh Rohilla
@@ -86,3 +88,7 @@ User Authentication: Providing user authentication to allow multiple users to ma
 The To-Do List application provides a simple yet effective way for users to manage their tasks. With its intuitive interface and basic functionality, it serves as a foundation for further enhancements and customization based on specific requirements.
 
 This documentation provides an overview of the To-Do List application, its features, usage instructions, development details, potential improvements, and its significance in task management.
+
+</body>
+</html>
+</
