@@ -1,4 +1,4 @@
-<h2># To-Do</h2>
+<h1> To-Do</h1>
 
 Name: Parivesh Rohilla
 
@@ -13,7 +13,7 @@ Domain: Web development
 To-Do List Documentation
 
 
-<h4>Introduction</h4>
+<u><h4>Introduction</h4></u>
 
 This To-Do List application provides a simple interface for users to manage their tasks. Users can add tasks, mark them as completed, and remove them from the list.
 
