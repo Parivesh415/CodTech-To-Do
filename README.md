@@ -1,6 +1,4 @@
-<html>
-<body>
-<h1> To-Do</h1>
+<h1><b>To-Do</h1></b>
 
 Name: Parivesh Rohilla
 
@@ -15,7 +13,7 @@ Domain: Web development
 To-Do List Documentation
 
 
-<h4>Introduction</h4>
+<h4><b>Introduction</h4></b>
 
 ~This To-Do List application provides a simple interface for users to manage their tasks. Users can add tasks, mark them as completed, and remove them from the list.
 
@@ -29,7 +27,7 @@ To-Do List Documentation
 ~JavaScript
 
 
-<h4>Features</h4>
+<h4><b>Features</h4></b>
 
 ~Adding Tasks: Users can input tasks in the provided text field and add them to the list.
 
@@ -39,7 +37,7 @@ To-Do List Documentation
 
 
 
-<h4>File Structure</h4>
+<h4><b>File Structure</h4></b>
 
 ~index.html: Contains the structure of the web page, including input fields, buttons, and task list.
 
@@ -48,7 +46,7 @@ To-Do List Documentation
 ~script.js: Implements the functionality of the To-Do List application using JavaScript.
 
 
-<h4>Usage</h4>
+<h4><b>Usage</h4></b>
 
 ~Open the index.html file in a web browser.
 
@@ -62,7 +60,7 @@ To-Do List Documentation
 
 
 
-<h4>Development</h4>
+<h4><b>Development</h4></b>
 
 ~HTML Structure: The HTML file (index.html) contains the structure of the application, including input fields, buttons, and the task list.
 
@@ -71,7 +69,7 @@ To-Do List Documentation
 ~JavaScript Functionality: The JavaScript file (script.js) implements the core functionality of the application, such as adding tasks, marking them as completed, and handling user interactions.
 
 
-<h4>Future Improvements</h4>
+<h4><b>Future Improvements</h4></b>
 
 ~Storage: Implementing local storage to persist tasks even after the page is refreshed.
 
@@ -83,12 +81,8 @@ To-Do List Documentation
 
 
 
-<h4>Conclusion</h4>
+<h4><b>Conclusion</h4></b>
 
 ~The To-Do List application provides a simple yet effective way for users to manage their tasks. With its intuitive interface and basic functionality, it serves as a foundation for further enhancements and customization based on specific requirements.
 
 ~This documentation provides an overview of the To-Do List application, its features, usage instructions, development details, potential improvements, and its significance in task management.
-
-</body>
-</html>
-
